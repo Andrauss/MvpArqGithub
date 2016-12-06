@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Archi</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Configurações</string>
+    <string name="text_stars">%d \nEstrelas</string>
+    <string name="text_watchers">%d \nObservadores</string>
+    <string name="text_forks">%d \nForks</string>
+    <string name="error_loading_repos">Algo errado ocorreu</string>
+    <string name="text_empty_repos">Essa conta não possui nenhum repositório público</string>
+    <string name="error_username_not_found">Usuário inexistente ou inativo</string>
+    <string name="hit_username">Usuário do GitHub</string>
+    <string name="default_info_message">Informe o nome de um usuário acima para consultar seus repositórios</string>
+    <string name="text_fork">Esse repositório é um fork</string>
+    <string name="text_language">Linguagem: %s</string>
+</resources>
